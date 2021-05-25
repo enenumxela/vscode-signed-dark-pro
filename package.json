@@ -1,0 +1,61 @@
+{
+    "name": "signed-dark-pro",
+    "version": "1.0.0",
+    "displayName": "Signed Dark Pro",
+    "description": "A professional, minimalistic dark user interface - with predefined, non-distractive, syntax highlighting that let's you focus on your code - crafted for your vscode/vscodium editor.",
+    "author": {
+        "name": "Alex Munene",
+        "email": "62714471+enenumxela@users.noreply.github.com",
+        "url": "https://linkedin.com/in/enenumxela"
+    },
+    "publisher": "enenmuxela",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    },
+    "icon": "images/logo.png",
+    "homepage": "https://github.com/enenmuxela/vscode-signed-dark-pro",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/enenmuxela/vscode-signed-dark-pro.git"
+    },
+    "bugs": {
+        "url": "https://github.com/enenmuxela/vscode-signed-dark-pro/issues"
+    },
+    "keywords": [
+        "pro",
+        "code",
+        "dark",
+        "theme",
+        "signed",
+        "dark pro",
+        "dark-theme",
+        "color-theme",
+        "signed dark pro"
+    ],
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Signed Dark Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/signed-dark-pro.color-theme.json"
+            }
+        ]
+    },
+    "scripts": {
+        "clean": "trash *.vsix",
+        "package": "vsce package",
+        "publish": "vsce publish"
+    },
+    "devDependencies": {
+        "trash-cli": "^4.0.0",
+        "vsce": "^1.88.0"
+    }
+}
