@@ -2,5 +2,4 @@
 *.vsix
 **/*.map
 node_modules/
-.env
 notes.txt
