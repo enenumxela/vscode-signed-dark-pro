@@ -1,0 +1,31 @@
+name: Publish Visual Studio Marketplace
+
+on:
+    release:
+        types:
+            - published
+    workflow_dispatch:
+
+jobs:
+    release:
+        runs-on: ubuntu-latest
+
+        steps:
+            -
+                name: set up node
+                uses: actions/setup-node@v1
+                with:
+                    node-version: 14
+                    registry-url: https://registry.npmjs.org/
+            -
+                name: check out code
+                uses: actions/checkout@v2
+            - 
+                name: Install dependencies
+                run: npm i
+            - 
+                name: Install vsce
+                run: npm i -g vsce
+            - 
+                name: Publish to Visual Studio Marketplace
+                run: vsce publish -p ${{ secrets.VSCE_PAT }}
