@@ -1,12 +1,10 @@
-# Signed Dark Pro
-
-[![Version](https://vsmarketplacebadge.apphb.com/version/enenumxela.signed-dark-pro.svg?label=Visual%20Studio%20Marketplace&colorB=0040FF)](https://marketplace.visualstudio.com/items?itemName=enenumxela.signed-dark-pro) [![Installs](https://vsmarketplacebadge.apphb.com/installs/enenumxela.signed-dark-pro.svg?label=Installs&colorB=0040FF)](https://marketplace.visualstudio.com/items?itemName=enenumxela.signed-dark-pro) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/enenumxela.signed-dark-pro.svg?label=Downloads&colorB=0040FF)](https://marketplace.visualstudio.com/items?itemName=enenumxela.signed-dark-pro) [![Ratings](https://img.shields.io/vscode-marketplace/r/enenumxela.signed-dark-pro.svg?label=Ratings&colorB=0040FF)](https://marketplace.visualstudio.com/items?itemName=enenumxela.signed-dark-pro#review-details) [![author](https://img.shields.io/badge/twitter-@enenumxela-0040ff.svg)](https://twitter.com/enenumxela)
-
 <div align="center">
 
 ![Signed Dark Pro Banner](https://raw.githubusercontent.com/enenumxela/vscode-signed-dark-pro/master/images/signed-dark-pro-banner.png)
 
 </div>
+
+[![Version](https://vsmarketplacebadge.apphb.com/version/enenumxela.signed-dark-pro.svg?label=Visual%20Studio%20Marketplace&colorB=0040FF)](https://marketplace.visualstudio.com/items?itemName=enenumxela.signed-dark-pro) [![Installs](https://vsmarketplacebadge.apphb.com/installs/enenumxela.signed-dark-pro.svg?label=Installs&colorB=0040FF)](https://marketplace.visualstudio.com/items?itemName=enenumxela.signed-dark-pro) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/enenumxela.signed-dark-pro.svg?label=Downloads&colorB=0040FF)](https://marketplace.visualstudio.com/items?itemName=enenumxela.signed-dark-pro) [![Ratings](https://img.shields.io/vscode-marketplace/r/enenumxela.signed-dark-pro.svg?label=Ratings&colorB=0040FF)](https://marketplace.visualstudio.com/items?itemName=enenumxela.signed-dark-pro#review-details) [![author](https://img.shields.io/badge/twitter-@enenumxela-0040ff.svg)](https://twitter.com/enenumxela)
 
 A professional, minimalistic dark user interface - with predefined, non-distractive, syntax highlighting that let's you focus on your code - crafted for your vscode/vscodium editor.
 
