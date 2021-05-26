@@ -1,4 +1,4 @@
-name: Publish Visual Studio Marketplace
+name: Publish to Visual Studio Marketplace
 
 on:
     release:
