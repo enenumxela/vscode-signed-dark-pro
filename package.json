@@ -17,13 +17,13 @@
         "theme": "dark"
     },
     "icon": "images/logo.png",
-    "homepage": "https://github.com/enenmuxela/vscode-signed-dark-pro",
+    "homepage": "https://github.com/enenumxela/vscode-signed-dark-pro",
     "repository": {
         "type": "git",
-        "url": "https://github.com/enenmuxela/vscode-signed-dark-pro.git"
+        "url": "https://github.com/enenumxela/vscode-signed-dark-pro.git"
     },
     "bugs": {
-        "url": "https://github.com/enenmuxela/vscode-signed-dark-pro/issues"
+        "url": "https://github.com/enenumxela/vscode-signed-dark-pro/issues"
     },
     "keywords": [
         "pro",
