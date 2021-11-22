@@ -13,6 +13,7 @@
         "descriptionForeground": "#777777",
         "errorForeground": "#ec3a37f5",
         "icon.foreground": "#ffffff",
+        /* https://code.visualstudio.com/api/references/theme-color#window-border */
         /* https://code.visualstudio.com/api/references/theme-color#text-colors */
         "textBlockQuote.background": "#111111",
         "textBlockQuote.border": "#0040ff",
