@@ -28,4 +28,4 @@ jobs:
                 run: npm i -g vsce
             - 
                 name: Publish to Visual Studio Marketplace
-                run: vsce publish -p ${{ secrets.VSCE_TOKEN }}
+                run: vsce publish -p ${{ secrets.AZURE_DEVOPS_PAT }}
