@@ -30,9 +30,9 @@
         "checkbox.foreground": "#ff0000",
         "checkbox.border": "#ff0000",
         /* https://code.visualstudio.com/api/references/theme-color#dropdown-control */
-        "dropdown.border": "#222222",
-        "dropdown.listBackground": "#000000",
         "dropdown.background": "#080808",
+        "dropdown.listBackground": "#000000",
+        "dropdown.border": "#333333",
         "dropdown.foreground": "#ffffff",
         /* https://code.visualstudio.com/api/references/theme-color#input-control */
         "input.background": "#080808",
@@ -87,7 +87,7 @@
         "activityBar.dropBorder": "#0040ff",
         "activityBar.foreground": "#ffffff",
         "activityBar.inactiveForeground": "#555555",
-        "activityBar.border": "#222222",
+        "activityBar.border": "#333333",
         "activityBarBadge.background": "#0040ff",
         "activityBarBadge.foreground": "#ffffff",
         "activityBar.activeBorder": "#0040ff",
@@ -96,7 +96,7 @@
         /* https://code.visualstudio.com/api/references/theme-color#side-bar */
         "sideBar.background": "#000000",
         "sideBar.foreground": "#999999",
-        "sideBar.border": "#222222",
+        "sideBar.border": "#333333",
         "sideBar.dropBackground": "#ff0000",
         "sideBarTitle.foreground": "#ffffff",
         "sideBarSectionHeader.background": "#000000",
@@ -115,12 +115,12 @@
         "minimapGutter.modifiedBackground": "#0080ff",
         "minimapGutter.deletedBackground": "#ff0000",
         /* https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs */
-        "editorGroup.border": "#222222",
+        "editorGroup.border": "#333333",
         "editorGroup.dropBackground": "#222222ab",
         "editorGroupHeader.noTabsBackground": "#000000",
         "editorGroupHeader.tabsBackground": "#000000",
         "editorGroupHeader.tabsBorder": "#000000",
-        "editorGroupHeader.border": "#222222",
+        "editorGroupHeader.border": "#333333",
         "editorGroup.emptyBackground": "#000000",
         "editorGroup.focusedEmptyBorder": "#0040ff",
         "tab.activeBackground": "#000000",
@@ -253,10 +253,10 @@
         /* https://code.visualstudio.com/api/references/theme-color#notification-colors */
         "notifications.background": "#000000",
         "notifications.foreground": "#FFFFFF",
-        "notificationCenter.border": "#222222",
+        "notificationCenter.border": "#333333",
         "notificationCenterHeader.foreground": "#FFFFFF",
         "notificationCenterHeader.background": "#000000",
-        "notificationToast.border": "#222222",
+        "notificationToast.border": "#333333",
         "notificationLink.foreground": "#0080ff",
         /* https://code.visualstudio.com/api/references/theme-color#extensions */
         "extensionButton.prominentBackground": "#0080ff",
