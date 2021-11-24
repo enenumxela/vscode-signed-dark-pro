@@ -30,7 +30,13 @@ A professional, minimalistic dark user interface - with predefined, non-distract
 4. Click **Reload** to reload your editor.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Signed Dark Pro**.
 6. [Rate five 🌟s](https://marketplace.visualstudio.com/items?itemName=enenumxela.signed-dark-pro&ssr=false#review-details) or/and  [Buy me a ☕](https://www.buymeacoffee.com/enenumxela) to appreciate the effort behind this theme.
-    <a href="https://www.buymeacoffee.com/enenumxela" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+    <div>
+    <a href="https://www.buymeacoffee.com/enenumxela" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+    </a>
+    </div>
+
 7. *Optional:* Use the "What settings do i use?" below for best experience.
 
 ## Recommended Settings
