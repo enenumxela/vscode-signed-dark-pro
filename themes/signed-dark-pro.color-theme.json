@@ -290,8 +290,11 @@
         "debugToolBar.background": "#080808",
         /* https://code.visualstudio.com/api/references/theme-color#welcome-page */
         "welcomePage.background": "#000000",
-        "welcomePage.buttonBackground": "#111111",
-        "welcomePage.buttonHoverBackground": "#000000",
+        "welcomePage.progress.background": "#222222",
+        "welcomePage.progress.foreground": "#0080ff",
+        "welcomePage.tileBackground": "#333333",
+        "welcomePage.tileHoverBackground": "#222222",
+        "welcomePage.tileShadow": "#ff0000",
         "walkThrough.embeddedEditorBackground": "#000000",
         /* https://code.visualstudio.com/api/references/theme-color#git-colors */
         "gitDecoration.addedResourceForeground": "#ff0000",
