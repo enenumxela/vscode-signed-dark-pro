@@ -26,9 +26,9 @@
         "button.background": "#0040ff",
         "button.foreground": "#ffffff",
         "button.hoverBackground": "#0080ff",
-        "checkbox.background": "#ff0000",
-        "checkbox.foreground": "#ff0000",
-        "checkbox.border": "#ff0000",
+        "checkbox.background": "#080808",
+        "checkbox.foreground": "#ffffff",
+        "checkbox.border": "#333333",
         /* https://code.visualstudio.com/api/references/theme-color#dropdown-control */
         "dropdown.background": "#080808",
         "dropdown.listBackground": "#000000",
