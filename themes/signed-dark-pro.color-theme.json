@@ -145,7 +145,6 @@
         "tab.inactiveModifiedBorder": "#ff0000",
         "tab.unfocusedActiveModifiedBorder": "#ff0000",
         "tab.unfocusedInactiveModifiedBorder": "#ff0000",
-        "editorPane.background": "#ff0000",
         /* https://code.visualstudio.com/api/references/theme-color#editor-colors */
         "editor.background": "#000000",
         "editor.foreground": "#FFFFFF",
